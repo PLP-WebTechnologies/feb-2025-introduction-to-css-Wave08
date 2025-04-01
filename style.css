@@ -1,0 +1,51 @@
+/* style.css */
+
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading styling */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Class selector for a paragraph */
+.text-highlight {
+    background-color: #e1f5fe;
+    padding: 10px;
+    border-left: 5px solid #1e88e5; /* Blue border */
+}
+
+/* ID selector for a special section */
+#special-note {
+    font-style: italic;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background-color: #fff;
+}
+
+/* Image styling */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #2c3e50;
+    margin-top: 20px;
+}
+
+/* Class selector for buttons */
+.button {
+    background-color: #1e88e5;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
